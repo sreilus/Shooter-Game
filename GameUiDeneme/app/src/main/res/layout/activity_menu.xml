@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/game_background"
+    tools:context="com.example.shooter.MenuActivity">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:id="@+id/play_against_computer"
+        android:background="#DC143C"
+        android:text="@string/play_against_computer_button"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_height="wrap_content">
+    </Button>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:id="@+id/play_aganist_human"
+        android:layout_centerVertical="true"
+        android:background="#D2691E"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:text="@string/play_against_human_button"
+        android:layout_below="@+id/play_against_computer"
+        android:layout_height="wrap_content">
+
+    </Button>
+
+</RelativeLayout>

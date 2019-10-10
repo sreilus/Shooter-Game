@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shooter Game</string>
+    <string name="out_of_use">Kullanım hakkınız bitti başka bir silah seçiniz!</string>
+    <string name="its_not_your_turn">Tur sırası sizde değil!</string>
+    <string name="play_against_computer_button">Bilgisayara Karşı Oyna</string>
+    <string name="play_against_human_button">2 Kişilik Oyun</string>
+</resources>
