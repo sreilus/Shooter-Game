@@ -1,7 +1,6 @@
 # Android Shooter Game
-Java ile ekstra oyun kütüphaneleri kullanmadan
-Android Sdk kütüphaneleri kullanılarak Android Studio'da yazılmıştır. 
+It is written in Android Studio using Android Sdk libraries without using 3rd party game libraries in Java.
 
-Oyun Ekran Görüntüleri:
+Screenshots:
 
-<a href="https://hizliresim.com/RgRg7a"><img src="https://i.hizliresim.com/RgRg7a.png" width=500 height="250"></a>
+<a target="_blank" href="https://hizliresim.com/RgRg7a"><img src="https://i.hizliresim.com/RgRg7a.png" width=500 height="250"></a>
